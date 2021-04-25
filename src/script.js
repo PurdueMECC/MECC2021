@@ -14,11 +14,3 @@ $(function () {
   $(document).ready(function(){
     $(this).scrollTop(0);
 });
-
-$(document).ready(function(){
-  setTimeout(function() {
-    $(".loader").fadeOut("slow");
-    $(".mainbody").toggleClass('scrollhide');
-}, 500);
-  
-});

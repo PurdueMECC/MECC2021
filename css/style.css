@@ -146,7 +146,7 @@ q{
     height: 100vh;
     display: flex;
     margin: 0;
-    background-image: url("../assets/matt-hardy-6ArTTluciuA-unsplash.jpg");
+    background-image: url("../assets/background.jpg");
     background-position:center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;

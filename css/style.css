@@ -146,7 +146,7 @@ q{
     height: 100vh;
     display: flex;
     margin: 0;
-    background-image: url("/assets/matt-hardy-6ArTTluciuA-unsplash.jpg");
+    background-image: url("../assets/matt-hardy-6ArTTluciuA-unsplash.jpg");
     background-position:center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -294,7 +294,7 @@ q{
     height: auto;
     min-height: 60vh;
     display: flex;
-    background-image: url("/assets/wavenergy.jpg");
+    background-image: url("../assets/wavenergy.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
